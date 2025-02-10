@@ -2,7 +2,7 @@
 
 $usuario = 'root';
 $senha = '';
-$dbaname = 'trabalho_rici';
+$dbaname = 'projeto1_php';
 $host = 'localhost';
 
     $mysqli = new mysqli($host, $usuario, $senha, $dbaname);
@@ -14,5 +14,5 @@ $host = 'localhost';
 
 
 <?php
-    $con = new PDO("mysql:host=localhost;dbname=trabalho_rici","root","");
+    $con = new PDO("mysql:host=localhost;dbname=projeto1_php","root","");
 ?>
