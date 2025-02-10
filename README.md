@@ -14,6 +14,13 @@ O primeiro projeto deste repositório é um sistema que permite:
 
 - Integração com um banco de dados MySQL utilizando phpMyAdmin (XAMPP).
 
+#### 📸 Imagens do Sistema
+Tela de Login:  
+![Tela de Login](Projeto_001/images/tela_login.jpg)
+
+Tela do Estoque:  
+![Tela de Estoque](Projeto_001/images/tela_estoque.jpg)
+
 **Tecnologias Utilizadas**
 
 - PHP: Linguagem principal do projeto.
@@ -24,15 +31,6 @@ O primeiro projeto deste repositório é um sistema que permite:
 
 - HTML, CSS, JavaScript: Interface básica para interação com o usuário.
 
-**Como Rodar o Projeto**
-
-**Requisitos**
-
-- XAMPP instalado (Download)
-
-- PHP 7 ou superior
-
-
 **Funcionalidades do Projeto**
 
 - Sistema de autenticação de usuários (login e registro).
@@ -41,8 +39,3 @@ O primeiro projeto deste repositório é um sistema que permite:
 
 - Operações CRUD (Create, Read, Update, Delete) totalmente funcionais.
 
-Contribuição
-
-Se quiser contribuir, fique à vontade para abrir uma issue ou enviar um pull request.
-
-Qualquer dúvida ou sugestão, entre em contato!
