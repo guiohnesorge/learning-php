@@ -37,5 +37,4 @@ Tela do Estoque:
 
 - Painel de controle para gerenciamento de itens do estoque.
 
-- Operações CRUD (Create, Read, Update, Delete) totalmente funcionais.
 
